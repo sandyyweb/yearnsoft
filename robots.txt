@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yearnsoft.neowiseindia.com/sitemap.xml
+Sitemap: https://sandyyweb.github.io/yearnsoft/sitemap.xml
